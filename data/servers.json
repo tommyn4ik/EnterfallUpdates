@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Everlight RolePlay",
+    "description": "Создай свою историю в блочном мире.",
+    "long_description": "Сервер Everlight RolePlay - это ролевой сервер Minecraft, где игроки могут создать свою историю в блочном мире. Мы предлагаем уникальные плагины, регулярные ивенты, систему прокачки и дружелюбное сообщество. Присоединяйтесь к нам и станьте частью великой истории Everlight!",
+    "image": "assets/images/background.png",
+    "author": "Enterfall Team",
+    "requirements": {
+      "IP адрес": "mc.enterfall.ru",
+      "Порт": "25565",
+      "Версия": "1.20.1"
+    }
+  }
+]
